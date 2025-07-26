@@ -39,16 +39,19 @@ Although both cell types share the same DNA, their **H3K4me3 patterns reveal dif
 
 1. **Download IGV**  
    Visit [https://software.broadinstitute.org/software/igv](https://software.broadinstitute.org/software/igv) and install the version appropriate for your computer.
+<img width="624" height="356" alt="Step 1" src="https://github.com/user-attachments/assets/cc2ea643-065e-4aae-9765-fe3a566121eb" />
 
 2. **Launch IGV.**
+   
+   ![Untitled video](https://github.com/user-attachments/assets/a2cf6857-7d72-407b-b59b-d110eda4a3c0)
 
-3. **Set the Genome to Mouse:**  
+4. **Set the Genome to Mouse:**  
    Use the genome dropdown to select `Mouse (mm9)`. If mm9 is unavailable, `mm10` may be used, but ensure the data files match the version.
 
-4. **Load Data Files:**  
+5. **Load Data Files:**  
    Drag and drop the `.bw` (BigWig) files for **H3K4me3 in brain** and **H3K4me3 in NIH3T3 fibroblasts** into the IGV browser.
 
-5. **Organize the View:**
+6. **Organize the View:**
    - Use `Tracks → Fit Data to Window` for best viewing
    - Right-click the tracks and choose `Change Track Color` (suggested: green for H3K4me3)
    - Use the search bar to navigate to specific genes (see below)
