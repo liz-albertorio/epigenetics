@@ -42,8 +42,8 @@ Although both cell types share the same DNA, their **H3K4me3 patterns reveal dif
 <img width="624" height="356" alt="Step 1" src="https://github.com/user-attachments/assets/cc2ea643-065e-4aae-9765-fe3a566121eb" />
 
 2. **Launch IGV.**
-   
-   ![Untitled video](https://github.com/user-attachments/assets/a2cf6857-7d72-407b-b59b-d110eda4a3c0)
+
+<img src="https://github.com/user-attachments/assets/a2cf6857-7d72-407b-b59b-d110eda4a3c0" alt="IGV launch screenshot" width="700">
 
 4. **Set the Genome to Mouse:**  
    Use the genome dropdown to select `Mouse (mm9)`. If mm9 is unavailable, `mm10` may be used, but ensure the data files match the version.
