@@ -1,3 +1,5 @@
+theme: jekyll-theme-minima
+
 # Exploring Gene Activation in Mouse Cells Using Chromatin Mapping
 
 **By Liz Albertorio-Sáez, M.Sc. and Rebekah Picard, B.Sc.**
