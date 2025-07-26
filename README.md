@@ -1,4 +1,4 @@
-theme: jekyll-theme-minima
+theme: jekyll.github.io/minima/
 
 # Exploring Gene Activation in Mouse Cells Using Chromatin Mapping
 
