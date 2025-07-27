@@ -42,17 +42,17 @@ Although both cell types share the same DNA, their **H3K4me3 patterns reveal dif
 <img width="624" height="356" alt="Step 1" src="https://github.com/user-attachments/assets/cc2ea643-065e-4aae-9765-fe3a566121eb" />
 
 2. **Launch IGV.** It may take up to 1 minute for the program to start and the reference genome (bottom of the window) to show up.
-   ![Untitled video (1)](https://github.com/user-attachments/assets/17a85b0d-4b1d-4c1b-ba60-e6978898a172)
-
-
+<img width="624" height="356" alt="Step 1" src="https://github.com/user-attachments/assets/17a85b0d-4b1d-4c1b-ba60-e6978898a172" />
 
 4. **Set the Genome to Mouse:**  
-   Use the genome dropdown to select `Mouse (mm9)`. If mm9 is unavailable, `mm10` may be used, but ensure the data files match the version.
+   Use the genome dropdown to select `Mouse (mm9)`. If mm9 is unavailable, `mm10` can used. Both mm9 and mm10 are assemblies of the mouse genome, with mm10 offering updates and improvements over the older mm9 version. Usually, online data files will tell you which genome were they aligned to when they were being analyzed.
+<img width="624" height="356" alt="Step 1" src="https://github.com/user-attachments/assets/3a1e6d87-fec8-4e8f-a4bf-741a1f5e0e76" />
 
-5. **Load Data Files:**  
-   Drag and drop the `.bw` (BigWig) files for **H3K4me3 in brain** and **H3K4me3 in NIH3T3 fibroblasts** into the IGV browser.
+6. **Load Data Files:**  
+   Drag and drop the `.bw` (BigWig) files for **Brain H3K4me3** and **NIH3T3 H3K4me3** into the IGV browser.
+<img width="624" height="356" alt="Step 1" src="https://github.com/user-attachments/assets/35203a8f-5145-4f8c-86db-8c5990509ff9" />
 
-6. **Organize the View:**
+8. **Organize the View:**
    - Use `Tracks → Fit Data to Window` for best viewing
    - Right-click the tracks and choose `Change Track Color` (suggested: green for H3K4me3)
    - Use the search bar to navigate to specific genes (see below)
