@@ -41,7 +41,9 @@ Although both cell types share the same DNA, their **H3K4me3 patterns reveal dif
    Visit [https://software.broadinstitute.org/software/igv](https://software.broadinstitute.org/software/igv) and install the version appropriate for your computer.
 <img width="624" height="356" alt="Step 1" src="https://github.com/user-attachments/assets/cc2ea643-065e-4aae-9765-fe3a566121eb" />
 
-2. **Launch IGV.**
+2. **Launch IGV.** It may take up to 1 minute for the program to start and the reference genome (bottom of the window) to show up.
+   ![Untitled video (1)](https://github.com/user-attachments/assets/17a85b0d-4b1d-4c1b-ba60-e6978898a172)
+
 
 
 4. **Set the Genome to Mouse:**  
